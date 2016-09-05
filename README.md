@@ -1,2 +1,1 @@
-# vim
-Vim settings
+This is my .vimrc settings.
